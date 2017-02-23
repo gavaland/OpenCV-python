@@ -1,5 +1,5 @@
 # Curso de introducción a OpenCV y Python
-#### Rubén Crespo Cano 
+#### Rubén Crespo Cano ([CAChemE.org](http://cacheme.org/curso-vision-artificial-opencv-python/))
 
 
 1. [Introducción](http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#1.-Introducción)
@@ -10,7 +10,7 @@
 6. [Canny edge detector](http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#6.-Canny-edge-detector)
 7. [Histogramas](http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#7.-Histogramas)
 8. [Template Matching](http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#7.-Histogramas)
-9. [http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#9.-Detección-de-caras](http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#9.-Detección-de-caras)
+9. [Detección-de-caras](http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#9.-Detección-de-caras)
 10. [Colores y espacios de color](http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#10.-Colores-y-espacios-de-color)
 11. [Detección y extracción de características](http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#11.-Detección-y-extracción-de-características-(feature-detection))
 12. [Aprendizaje automático](http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#11.-Detección-y-extracción-de-características-(feature-detection))
