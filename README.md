@@ -13,7 +13,7 @@
 9. [Detección-de-caras](http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#9.-Detección-de-caras)
 10. [Colores y espacios de color](http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#10.-Colores-y-espacios-de-color)
 11. [Detección y extracción de características](http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#11.-Detección-y-extracción-de-características-(feature-detection))
-12. [Aprendizaje automático](http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#11.-Detección-y-extracción-de-características-(feature-detection))
+12. [Aprendizaje automático](http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#12.-Aprendizaje-automático)
 
 Si tienes problemas con enlaces anteriores, prueba con [este otro](https://github.com/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb)
 
