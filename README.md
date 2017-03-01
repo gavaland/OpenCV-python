@@ -16,5 +16,3 @@
 12. [Aprendizaje automático](http://nbviewer.jupyter.org/github/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb#12.-Aprendizaje-automático)
 
 Si tienes problemas con enlaces anteriores, prueba con [este otro](https://github.com/CAChemE/opencv-python/blob/master/opencv-and-python.ipynb)
-
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/cacheme/opencv-python)
